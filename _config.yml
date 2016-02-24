@@ -1,0 +1,28 @@
+name: kuwi
+favicon: null
+layout_spectrum: 0.033361888490617275
+typography_spectrum: 0.7488025312777609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7322166173253208
+  lightness: 0.8501727571710944
+  saturation: 0.15392837091349065
+  rhythmicContrast: 0.7332561903167516
+purpose: []
